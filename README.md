@@ -1,7 +1,7 @@
 # Airline Cabin Configuration & Revenue Optimization
 
 > [!IMPORTANT]
-> > Due to file size, the notebook migh not open on GitHub. Please, download the file and open it locally to see its content.
+> Due to file size, the notebook migh not open on GitHub. Please, download the file and open it locally to see its content.
 
 ## Project Overview
 This project addresses the strategic **Seat Allocation Problem** for an airline (Azul) facing the challenge of returning to solvency. Using a sequence of optimization models, this notebook determines the optimal cabin layout—balancing First, Business, and Economy classes—to maximize total revenue under real-world demand uncertainty and loyalty service mandates.

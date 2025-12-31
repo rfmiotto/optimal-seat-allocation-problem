@@ -1,0 +1,15 @@
+# Data Manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Optimization (Pyomo + HiGHS)
+pyomo>=6.6.0
+highspy>=1.5.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Environment
+ipykernel
+jupyter
